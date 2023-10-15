@@ -1,5 +1,7 @@
 ### Hi, this is baowen,zhang 👋
 
+> I'm a front-end developer.
+ 
 - 🔭 I’m currently working on Guangzhou.
 - 🌱 I’m currently learning：
   - REACT
