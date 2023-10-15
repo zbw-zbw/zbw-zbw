@@ -1,20 +1,17 @@
-### Hi there 👋
+### Hi, this is baowen,zhang 👋
 
-<!--
-**zbw-zbw/zbw-zbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Guangzhou.
+- 🌱 I’m currently learning：
+  - REACT
+  - TYPESCRIPT
+  - NODE.JS
+  - VUEJS
+- 📫 How to reach me:
+  - WeChat：13790920981
+  - QQ：193577746
+  - Email：193577746@qq.com
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbw-zbw&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbw-zbw&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbw-zbw)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbw-zbw)](https://github.com/anuraghazra/github-readme-stats)
