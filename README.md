@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning：
   - REACT
   - TYPESCRIPT
-  - NODE.JS
   - VUEJS
+  - NODE.JS
+
 - 📫 How to reach me:
   - WeChat：13790920981
   - QQ：193577746
@@ -19,6 +20,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbw-zbw&show_icons=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbw-zbw&show_icons=true&hide=stars&line_height=24" />
 </a>
