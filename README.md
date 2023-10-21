@@ -15,7 +15,7 @@
   - Email：193577746@qq.com
 - ✨ More:
    - [juejin](https://juejin.cn/user/1239904848718135)
-   - [SegmentFault](https://segmentfault.com/u/jiaowoouwenjiuhao)
+   - [SegmentFault](https://segmentfault.com/u/kyriewen)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
