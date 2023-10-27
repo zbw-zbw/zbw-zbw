@@ -17,5 +17,5 @@
    - [juejin](https://juejin.cn/user/1239904848718135)
    - [SegmentFault](https://segmentfault.com/u/kyriewen)
 
-![dark](https://github.com/zbw-zbw/zbw-zbw/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![light](https://github.com/zbw-zbw/zbw-zbw/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![dark](https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/main/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![light](https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
