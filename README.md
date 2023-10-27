@@ -17,10 +17,8 @@
    - [juejin](https://juejin.cn/user/1239904848718135)
    - [SegmentFault](https://segmentfault.com/u/kyriewen)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbw-zbw&layout=compact" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbw-zbw&show_icons=true&hide=stars&line_height=24" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/output/github-contribution-grid-snake.svg">
+</picture>
