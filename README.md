@@ -1,4 +1,4 @@
-### Hi, this is baowen, zhang  👋
+### Hi there 👋 , this is baowen, zhang.
 
 > I'm a front-end developer.
  
