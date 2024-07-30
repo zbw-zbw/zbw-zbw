@@ -4,10 +4,10 @@
  
 - 🔭 I’m currently working on Guangzhou.
 - 🌱 I’m currently learning：
-  - REACT
-  - TYPESCRIPT
-  - VUEJS
-  - NODE.JS
+  - React
+  - Typescript
+  - Node
+  - Vue
 
 - 📫 How to reach me:
   - WeChat：13790920981
