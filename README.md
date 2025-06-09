@@ -18,7 +18,7 @@
   - QQ：193577746
   - Email：193577746@qq.com
 - ✨ More about me:
-   - [Blog](https://blog.zbw-zbw.cn)
+   - [blog](https://blog.zbw-zbw.cn)
    - [juejin](https://juejin.cn/user/1239904848718135)
    - [SegmentFault](https://segmentfault.com/u/kyriewen)
 
