@@ -2,13 +2,16 @@
 
 > I'm a front-end developer.
  
-- 🔭 I’m currently working in Guangzhou City, Guangdong Province, China.
-- 🌱 I’m currently using：
+- 🔭 I’m currently working in：
+  - Guangzhou City,
+  - Guangdong Province,
+  - China.
+- 🌱 I’m good at：
   - React
+  - Typescript
+  - Nextjs
   - Vue
   - Nodejs
-  - Typescript
-  - Javascript
 
 - 📫 How to reach me:
   - WeChat：singer_wen
