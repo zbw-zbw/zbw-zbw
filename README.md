@@ -6,7 +6,7 @@
   - Guangzhou City,
   - Guangdong Province,
   - China.
-- 🌱 I’m good at：
+- 🌱 I’m currently good at：
   - React
   - Typescript
   - Nextjs
