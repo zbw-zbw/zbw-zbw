@@ -2,18 +2,19 @@
 
 > I'm a front-end developer.
  
-- 🔭 I’m currently working on Guangzhou.
-- 🌱 I’m currently learning：
+- 🔭 I’m currently working in Guangzhou City, Guangdong Province, China.
+- 🌱 I’m currently using：
   - React
-  - Typescript
-  - Node
   - Vue
+  - Nodejs
+  - Typescript
+  - Javascript
 
 - 📫 How to reach me:
-  - WeChat：13790920981
+  - WeChat：singer_wen
   - QQ：193577746
   - Email：193577746@qq.com
-- ✨ More:
+- ✨ More about me:
    - [juejin](https://juejin.cn/user/1239904848718135)
    - [SegmentFault](https://segmentfault.com/u/kyriewen)
 
