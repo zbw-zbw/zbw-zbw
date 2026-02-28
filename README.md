@@ -21,6 +21,7 @@
    - [blog](https://blog.zbw-zbw.cn)
    - [juejin](https://juejin.cn/user/1239904848718135)
    - [SegmentFault](https://segmentfault.com/u/kyriewen)
+   - [CSDN](https://blog.csdn.net/weixin_47352287?spm=1000.2115.3001.5343)
 
 ![light](https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![dark](https://raw.githubusercontent.com/zbw-zbw/zbw-zbw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
