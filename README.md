@@ -1,6 +1,6 @@
 ### Hi, I'm Kyrie 👋
 
-🌱 Currently building **[Image Harvest](https://image-harvest.kyriewen.cn)** — a free Chrome extension that downloads any image from any webpage. Free, local, MV3. [Install →](https://chromewebstore.google.com/detail/iecgnjidmogebokcfnejncgnelcepffo)
+🌱 Building **[Image Harvest](https://image-harvest.kyriewen.cn)** — a free Chrome extension that downloads any image from any webpage. Free. [Install →](https://chromewebstore.google.com/detail/iecgnjidmogebokcfnejncgnelcepffo)
 
 💻 Frontend developer & indie hacker. Vanilla JS, TypeScript, Next.js, Chrome Extensions.
 
