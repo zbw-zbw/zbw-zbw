@@ -68,10 +68,10 @@
 
 ### 📫 Get in Touch
 
+- ✍️ **Website**: [hi.kyriewen.cn](https://hi.kyriewen.cn)
 - 📧 **Email**: [coderkyriewen@gmail.com](mailto:coderkyriewen@gmail.com)
 - 🐦 **Twitter / X**: [@coderkyriewen](https://x.com/coderkyriewen)
 - 💼 **LinkedIn**: [kyriewen](https://www.linkedin.com/in/kyrie-wen-931727405)
-- ✍️ **Blog**: [blog.zbw-zbw.cn](https://blog.zbw-zbw.cn)
 - 📝 **Juejin**: [juejin.cn/user/1239904848718135](https://juejin.cn/user/1239904848718135)
 - 💡 **SegmentFault**: [segmentfault.com/u/kyriewen](https://segmentfault.com/u/kyriewen)
 
