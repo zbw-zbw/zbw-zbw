@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kyriewen 👋</h1>
 
 <p align="center">
-  <strong>Indie Hacker · Frontend Developer · Chrome Extension Builder</strong>
+  <strong>Indie Hacker · Frontend Developer
 </p>
 
 <p align="center">
-  Building useful little products that solve real problems —— 100% local, privacy-first, zero tracking.
+  Building useful products that solve real problems.
 </p>
 
 <p align="center">
