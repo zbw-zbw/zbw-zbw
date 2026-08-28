@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kyriewen 👋</h1>
 
 <p align="center">
-  <strong>Indie Hacker · Frontend Developer
+  <strong>Indie Hacker · Frontend Developer</strong>
 </p>
 
 <p align="center">
@@ -49,12 +49,15 @@
 
 ### 📊 GitHub Stats
 
+<!-- 自部署 github-readme-stats（Vercel 实例 github-readme-stats-topaz-two-38，PAT_1 已配），
+     自定义域名 stats.kyriewen.cn（Cloudflare CNAME 灰云 → vercel-dns）。 -->
+
 <p align="center">
   <a href="https://github.com/zbw-zbw">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zbw-zbw&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Kyriewen's GitHub stats" />
+    <img height="165" src="https://stats.kyriewen.cn/api?username=zbw-zbw&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Kyriewen's GitHub stats" />
   </a>
   <a href="https://github.com/zbw-zbw">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zbw-zbw&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="165" src="https://stats.kyriewen.cn/api/top-langs/?username=zbw-zbw&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
